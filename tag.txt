@@ -1,0 +1,3 @@
+category: 跨专业选修
+semester: 第二学年秋季
+name: 大学化学III
