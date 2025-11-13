@@ -1,0 +1,32 @@
+ID: "CHEM1012"
+SimilarID: []
+Name: "大学化学III"
+CourseProperty:
+  Major:
+    - Year: "2023_2024"
+      Name: [  ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: ""
+      Semester: "秋"
+  CourseType: ""
+  CourseID: "CHEM1012"
+  CourseName: "大学化学III"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: "" 
+    Desc: "大学化学III是一门注重实验的课程，要求学生参与实践，培养化学实验技能。"
+    Name: "相关实验课程"
+    Ids: ["CHEM1011", "CHEM1013", "CHEM1014"]
+  GradeComposition:
+    - Name: "实验"
+      Percentage: 40
+    - Name: "平时作业"
+      Percentage: 60
+  CourseHourComposition:
+    - Name: "实验"
+      Hour: 9
+    - Name: "课堂讲授"
+      Hour: 23
