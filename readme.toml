@@ -1,7 +1,6 @@
 course_name = "大学化学III"
-repo_type = "normal"
 course_code = "CHEM1012"
-
+repo_type = "normal"
 description = "总的来说，大学化学III 占用时间精力很少，性价比还是很高的。"
 
 [[sections]]
